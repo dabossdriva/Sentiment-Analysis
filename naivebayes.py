@@ -1,8 +1,7 @@
 """
-Name: Odessa Elie
-Student ID: 010766475
-Due Date: May 1, 2020
-Project 5 - Naive Bayes Classifier
+Odessa Elie
+May 1, 2020
+Naive Bayes Classifier
 
 The purpose of this project is to implement the Naive Bayes Classifier on text data.
 """
